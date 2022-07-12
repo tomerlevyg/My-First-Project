@@ -1,3 +1,6 @@
 Hello File 1
 New Line
 Here I add some more code but this code is only for testing purposeses
+
+
+This is my terminal adding lines
